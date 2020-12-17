@@ -18,3 +18,13 @@
 section, footer{
   padding: 20px 0;
 }
+
+.card-flex{
+  display: flex;
+}
+
+.editimg img{
+  width : 400px;
+  height: 400px;
+
+}
